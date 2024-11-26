@@ -27,12 +27,12 @@ Got a suggestion, useful Prompt or spotted an issue? We welcome contributions to
 An example Prompt (to use as a template) can be found within the `/prompts/example-docs/` folder, simply:
 
 1. Create a prompt using the applicable `.md` Markdown file structure within the `prompts/` folder
-  * Use the [Example Prompt](./prompts/example-docs/example-prompt.md) as a template to copy-amend-paste from
-  * Save this into a relevant existing subfolder of `prompts/` (such as `network-engineering/`), or create a new subfolder as a category if no suitable one already exists
-  * Name the file with hyphenated lowercase spelling as a `.md` file, for example `prompt-about-thing.md` and save within this subfolder
+    * Use the [Example Prompt](./prompts/example-docs/example-prompt.md) as a template to copy-amend-paste from
+    * Save this into a relevant existing subfolder of `prompts/` (such as `network-engineering/`), or create a new subfolder as a category if no suitable one already exists
+    * Name the file with hyphenated lowercase spelling as a `.md` file, for example `prompt-about-thing.md` and save within this subfolder
 2. Issue a Pull Request (PR) to update the [Prompts](#Prompts) section of this `README.md` file with a link to your new `prompt-file.md`
-  * Use the link to the `Example Prompt` as an example to copy from
-  * Ensure your new Prompt is under the correct category heading (such as [Network Engineering](#network-engineering)), or create new category heading if no suitable one already exists
+    * Use the link to the `Example Prompt` as an example to copy from
+    * Ensure your new Prompt is under the correct category heading (such as [Network Engineering](#network-engineering)), or create new category heading if no suitable one already exists
 
 ## License
 This project is licensed under the MIT License - see the [license](LICENSE) file for details.
