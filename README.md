@@ -5,7 +5,8 @@
 
 
 <div align="center">
- <img src="./logo.png" alt="Anteon logo dark" width="400px" />
+ <img src="./logo.png#gh-light-mode-only" alt="Anteon logo dark" width="400px" />
+ <img src="./logo-dark.png#gh-dark-mode-only" alt="Anteon logo dark" width="400px" />
 </div>
 
 ## About
