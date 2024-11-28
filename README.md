@@ -21,7 +21,7 @@ This is a collection of AI (GPT, LLM, ML, RAG, NLP...) Prompts that are useful t
 * [Incident email to structured JSON](./prompts/network-operations/incident-email-to-structured-json.md)
 
 ### Network Engineering
-* tbc
+* [Network Topology to Mermaid JS diagram](./prompts/network-engineering/network-topology-mermaid-diagram.md)
 
 ### NetDevOps
 * tbc
